@@ -1,0 +1,10 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+#buttons {
+  display: block;
+  margin-bottom: 50px;
+  box-align: center;
+}
